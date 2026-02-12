@@ -435,7 +435,7 @@ const port = process.env.PORT || 5000;
 // ===== Middleware =====
 app.use(
   cors({
-    origin: ["http://localhost:5173", "https://your-frontend-domain.vercel.app"], // Frontend URL pore add kore nite parben
+    origin: ["http://localhost:5173", "https://etuitionplatform.netlify.app"], // Frontend URL pore add kore nite parben
     credentials: true,
   })
 );
