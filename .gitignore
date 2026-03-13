@@ -2,4 +2,8 @@ node_modules
 .env
 
 # Firebase Admin secret
+<<<<<<< HEAD
 *.json
+=======
+etuition-bd-e1d66-firebase-adminsdk-fbsvc-7a3fd107a1.json
+>>>>>>> 41feaff5fdabf1fdcf16d9b89cfd2780f71f3091
